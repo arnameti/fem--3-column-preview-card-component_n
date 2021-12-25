@@ -2,6 +2,7 @@
   padding: 1.2rem 3.15rem;
   font-size: 1.5rem;
   line-height: 1.6;
+  text-align: center;
   border-radius: 2.5rem;
   background-color: var(--clr-very-light-gray);
   border: 2px solid var(--clr-very-light-gray);
@@ -11,4 +12,5 @@
 
 .btn:hover {
   background-color: transparent;
+  color: currentColor;
 }
